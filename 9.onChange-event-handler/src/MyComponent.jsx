@@ -65,7 +65,7 @@ function MyComponent() {
         />
         Delivery
       </label>
-      <p>Shipping: {shipping} </p>
+      <p>Shipping: {shippingy} </p>
     </div>
   );
 }
