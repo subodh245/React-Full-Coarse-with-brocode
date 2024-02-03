@@ -24,6 +24,19 @@
 8) onchange event handeler this is mostly used in forms for example radio button, select option , text area , input etc and i have created form using this example
    <img width="1280" alt="rb4" src="https://github.com/subodh245/React-Full-Coarse-with-brocode/assets/118099441/d4245ed0-b831-4895-b66d-5afd30d743ed">
 
+9) made a color picker program using useState hook and onchange event handler 
+ <img width="1280" alt="rb5" src="https://github.com/subodh245/React-Full-Coarse-with-brocode/assets/118099441/f991add6-c76b-4fc2-bda4-a90a093dd647">
+ 
+10) updater function it is use to set state more safely and it alows to save the update according to previous updates
+<img width="1280" alt="rb6" src="https://github.com/subodh245/React-Full-Coarse-with-brocode/assets/118099441/fa11f661-819c-40fa-9657-be462a597d6f">
+
+11) Updated array using usestate hook and added two function for adding and removeing foods form the array list
+<img width="1279" alt="rb7" src="https://github.com/subodh245/React-Full-Coarse-with-brocode/assets/118099441/3d981cdf-2a55-471c-b5a9-eafb1037f0ff">
+
+12) update array of object it can update the make,year,model of the car in this code
+<img width="1280" alt="rb8" src="https://github.com/subodh245/React-Full-Coarse-with-brocode/assets/118099441/7a8b0da1-04cf-4c2b-8ad9-60192af6fadf">
+
+
 
 
 
