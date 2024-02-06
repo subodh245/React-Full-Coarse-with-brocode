@@ -51,6 +51,8 @@ this is anther example of useEffect hook where i have printed widht and height o
 <img width="1280" alt="rb3" src="https://github.com/subodh245/React-Full-Coarse-with-brocode/assets/118099441/d86fb249-5884-4ddf-a15c-3d29c0d68404">
 
 17) I have learn use constext it the best alternative of props when we need to do props driling(using one props multiple time) in use context we can directly import the value
+<img width="1280" alt="rb1" src="https://github.com/subodh245/React-Full-Coarse-with-brocode/assets/118099441/bae53628-5945-4634-bbb5-e8e3342675ae">
+
 
 
 
