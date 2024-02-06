@@ -42,6 +42,15 @@
 14) made a to-do-list app in this app we can  perform add, delete, move up/down I have learn more about useState hook and arrow functions by makeing this to-do-list app
 <img width="1280" alt="rb2" src="https://github.com/subodh245/React-Full-Coarse-with-brocode/assets/118099441/41516ef4-529f-4c5d-adbc-d6c336fafc33">
 
+15) I have made one counter program in which i have used used useEffect hook , whenever we click on the change color button counter and title of the web changes the color  simultaneously
+<img width="1278" alt="rb1" src="https://github.com/subodh245/React-Full-Coarse-with-brocode/assets/118099441/5320efa9-9b2a-4b70-8855-e166c417948d">
+this is anther example of useEffect hook where i have printed widht and height of the web and whenever it changes , it get printed on the title
+<img width="1280" alt="rb2" src="https://github.com/subodh245/React-Full-Coarse-with-brocode/assets/118099441/ffef8d7d-57be-4075-88b1-846cc0466e4d">
+
+16) In this I have make a clock using react useState and react useEffect 
+<img width="1280" alt="rb3" src="https://github.com/subodh245/React-Full-Coarse-with-brocode/assets/118099441/d86fb249-5884-4ddf-a15c-3d29c0d68404">
+
+
 
 
 
