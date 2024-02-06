@@ -36,7 +36,11 @@
 12) update array of object it can update the make,year,model of the car in this code
 <img width="1280" alt="rb8" src="https://github.com/subodh245/React-Full-Coarse-with-brocode/assets/118099441/7a8b0da1-04cf-4c2b-8ad9-60192af6fadf">
 
+13) made a form for learning how to update array of object in useState we can add and delete the listed cars or items from the list 
+<img width="1280" alt="rb1" src="https://github.com/subodh245/React-Full-Coarse-with-brocode/assets/118099441/2bb76b5b-6497-4917-b3e8-ebe8e4732f98">
 
+14) made a to-do-list app in this app we can  perform add, delete, move up/down I have learn more about useState hook and arrow functions by makeing this to-do-list app
+<img width="1280" alt="rb2" src="https://github.com/subodh245/React-Full-Coarse-with-brocode/assets/118099441/41516ef4-529f-4c5d-adbc-d6c336fafc33">
 
 
 
