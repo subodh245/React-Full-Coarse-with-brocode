@@ -53,6 +53,10 @@ this is anther example of useEffect hook where i have printed widht and height o
 17) I have learn use constext it the best alternative of props when we need to do props driling(using one props multiple time) in use context we can directly import the value
 <img width="1280" alt="rb1" src="https://github.com/subodh245/React-Full-Coarse-with-brocode/assets/118099441/bae53628-5945-4634-bbb5-e8e3342675ae">
 
+18) useRef hook it works same as the useState hook and have same capabilty but in useState it does unneccessary rendering and useRef does't do unneccessary it is usefull while making interctive UI
+<img width="1280" alt="rb2" src="https://github.com/subodh245/React-Full-Coarse-with-brocode/assets/118099441/9301611e-0388-429a-a487-e54252e4ca3f">
+
+
 
 
 
