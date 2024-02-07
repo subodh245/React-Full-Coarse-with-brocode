@@ -56,6 +56,10 @@ this is anther example of useEffect hook where i have printed widht and height o
 18) useRef hook it works same as the useState hook and have same capabilty but in useState it does unneccessary rendering and useRef does't do unneccessary it is usefull while making interctive UI
 <img width="1280" alt="rb2" src="https://github.com/subodh245/React-Full-Coarse-with-brocode/assets/118099441/9301611e-0388-429a-a487-e54252e4ca3f">
 
+19) I have created the stopwacth using 3 hooks that is useEffect() useRef() useState()
+<img width="1280" alt="rb3" src="https://github.com/subodh245/React-Full-Coarse-with-brocode/assets/118099441/23e4d4db-efbb-414f-ad2c-bc3264218481">
+
+
 
 
 
